@@ -26,8 +26,8 @@ def video_to_mp3(directory_of_videos):
 
 
 if __name__ == '__main__':
-    #download_videos(['https://www.youtube.com/watch?v=fb_v5Bc8PSk'])
+    download_videos(['https://www.youtube.com/watch?v=fb_v5Bc8PSk']) #here you can put more then one link
 
     video_to_mp3("English Videos")
-    #video_to_mp3('Portuguese Videos')
+    #video_to_mp3('Portuguese Videos') #change this if you are downloading portuguese videos
 
